@@ -32,3 +32,9 @@ There is a lot of simple functions that make the calculator work efficiently and
 
 Code structure:
 
+<br>1 - declaring constant variables and attaching them to html elements.
+<br>2 - declaring global variables for saving data and changing them due to functional logic.
+<br>3 - declaring an object with simple variables as object properties.
+<br>4 - main for loop that runs betwen the buttons and attach functionality to them.
+<br>5 - simple functions.
+<br>6 - main functions that attached to event listener.
