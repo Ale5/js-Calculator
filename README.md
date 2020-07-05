@@ -11,7 +11,7 @@ JavaScript document:
 
 Description:
 
-<br>This calculator working by object status, the object properties changes by clicking buttons and so the object changes.
+This calculator working by object status, the object properties changes by clicking buttons and so the object changes.
 <br>Each object changing makes a copy of a global (current object) and push that copy inside an array.
 <br>The array holds all the copies of a global object and let us know what was the status of object properties in specific moment.
 <br>The main model is "first value - operator - second value". There is a lot of another properties that helps us make a wright flow.
@@ -22,7 +22,7 @@ Description:
 
 There is a lot of simple functions that make the calculator work efficiently and beeing a user friendly:
 
-<br>Font size changing depending on how much symbols is on the screen.
+Font size changing depending on how much symbols is on the screen.
 <br>Alert when you write a second point
 <br>Dividing by zero
 <br>Pressing an operator after operator
@@ -32,7 +32,7 @@ There is a lot of simple functions that make the calculator work efficiently and
 
 Code structure:
 
-<br>1 - declaring constant variables and attaching them to html elements.
+1 - declaring constant variables and attaching them to html elements.
 <br>2 - declaring global variables for saving data and changing them due to functional logic.
 <br>3 - declaring an object with simple variables as object properties.
 <br>4 - main for loop that runs betwen the buttons and attach functionality to them.
