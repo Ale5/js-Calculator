@@ -1,5 +1,5 @@
 # js-Calculator
-Calculate without brackets
+Calculate without parenthesis
 
 HTML document:
 <br>Basic html document with buttons.
@@ -22,13 +22,13 @@ This calculator working by object status, the object properties changes by click
 
 There is a lot of simple functions that make the calculator work efficiently and beeing a user friendly:
 
-Font size changing depending on how much symbols appears on the screen.
-<br>Alert when you write a second point
+Font size changing depending on how much symbols appear on the screen.
+<br>Alert window when you write a second point
 <br>Dividing by zero
-<br>Pressing an operator after operator
-<br>Starting with operator, or point
-<br>Pressing point straight after operator
-<br>Deleting last element before equal function going to calculate if the last element is an operator, or point. 
+<br>Clicking on operator after operator
+<br>Starting with operator, or a point
+<br>Pressing point straight after the operator
+<br>Deleting last element before equal function going to calculate if the last element is an operator, or a point. 
 
 Code structure:
 
